@@ -18,6 +18,7 @@ Questions to be answered by the system:
 10. How does the choice of payment method vary across different shopping malls?
 
 Advanced questions: 
+
 11. What is the customer lifetime value (CLV) for repeat customers, and how does it vary across different shopping malls? 
 (Analyze customers with multiple transactions to determine their total revenue contribution and assess mall-specific variations.) 
 
